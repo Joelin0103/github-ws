@@ -5,7 +5,7 @@ def multiply(a: int, b: int) -> int:
     pass
 
 def divide(a: int, b: int) -> int:
-    return a/b
+    return a / b
 
 if __name__ == "__main__":
     print("Please input the calculation you want: ")
